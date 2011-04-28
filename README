@@ -1,0 +1,18 @@
+Demo and Node study session - website scraping app built by
+*Paul T
+*Brian P
+*Eric M
+
+Referenced projects:
+http://blog.dtrejo.com/scraping-made-easy-with-jquery-and-selectorga
+
+Initial requirements:
+Form with a website to scrape and a jQuery selector to return the results of the page "scraped" via the passed jQuery selector.
+
+This app requires the following NPM packages
+
+npm insall the following:
+*express
+*http-agent
+*jsdom
+*jquery
